@@ -2,6 +2,8 @@
 
 **Aplicación de gestión para cine** que permite consultar películas, horarios y vender entradas. Desarrollado como parte de la carrera de **Técnico en Programación**.
 
+⚠️ **ATENCIÓN**: Este proyecto fue desarrollado como parte de un trabajo práctico de primer año, por lo que puede contener errores pequeños y áreas que podrían mejorarse en términos de buenas prácticas y optimización. Debido a las limitaciones de tiempo, algunos aspectos no fueron completamente refinados.
+
 ---
 
 Este proyecto es una solución integral para la gestión de un cine, diseñada para que los empleados puedan gestionar y vender entradas de forma eficiente. La aplicación está estructurada en tres componentes principales, los cuales trabajan en conjunto para ofrecer una experiencia completa:
@@ -24,8 +26,6 @@ Desarrollado en **Windows Forms** con **C#**, ofrece una interfaz intuitiva y am
 - **Consulta de Películas**: Visualización detallada de las películas en cartelera.
 - **Alta, Baja y Modificación de Películas**: Gestión completa de las películas en cartelera (agregar, eliminar o modificar).
 - **Compra de Entradas**: Los usuarios pueden seleccionar la película, elegir la función y comprar las entradas directamente desde la plataforma.
-
-⚠️ **ATENCIÓN**: Este proyecto fue desarrollado como parte de un trabajo práctico de primer año, por lo que puede contener errores pequeños y áreas que podrían mejorarse en términos de buenas prácticas y optimización. Debido a las limitaciones de tiempo, algunos aspectos no fueron completamente refinados.
 
 ---
 
