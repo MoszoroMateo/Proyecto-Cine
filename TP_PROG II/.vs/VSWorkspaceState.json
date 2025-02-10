@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BackEnd",
+    "\\BackEnd\\BackEnd",
+    "\\BackEnd\\BackEnd\\Datos",
+    "\\BackEnd\\BackEnd\\Datos\\Interfaz",
+    "\\BackEnd\\BackEnd\\Fachada",
+    "\\BackEnd\\BackEnd\\Fachada\\Implementacion",
+    "\\FrontEnd1",
+    "\\FrontEnd1\\Forms",
+    "\\WebApi"
+  ],
+  "SelectedNode": "\\FrontEnd1\\Forms\\FrmTransaccion.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,148 @@
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.Forms.FrmConsultarPelicula.resources
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.Forms.FrmInsModPelicula.resources
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.FrmIntegrantes.resources
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.FrmPrincipal.resources
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.Forms.Transaccion.resources
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.login.resources
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.Properties.Resources.resources
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.csproj.GenerateResource.cache
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.GeneratedMSBuildEditorConfig.editorconfig
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.AssemblyInfoInputs.cache
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.AssemblyInfo.cs
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.csproj.CoreCompileInputs.cache
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\FrontEnd1.exe
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\FrontEnd1.deps.json
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\FrontEnd1.runtimeconfig.json
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\FrontEnd1.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\FrontEnd1.pdb
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\refint\FrontEnd1.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.pdb
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.genruntimeconfig.cache
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\ref\FrontEnd1.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.sourcelink.json
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.csproj.AssemblyReference.cache
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.csproj.CopyComplete
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\BackEnd.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\BackEnd.pdb
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\SqlServerTypes\x64\msvcr120.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\SqlServerTypes\x86\msvcr120.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\ReportesTpProg.exe
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Types.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\ReportesTpProg.pdb
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\ReportesTpProg.exe.config
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\de\Microsoft.ReportViewer.Common.resources.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\es\Microsoft.ReportViewer.Common.resources.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\it\Microsoft.ReportViewer.Common.resources.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\fACULTAD\Tecnicatura Universitaria de Programacion\TPPROG2\CineProg\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mateo\Desktop\TRABAJO PRACTICO PROGRAMACION\CineProg-main\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.dll
+C:\Users\mateo\Desktop\TRABAJO PRACTICO PROGRAMACION\CineProg-main\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\refint\FrontEnd1.dll
+C:\Users\mateo\Desktop\TRABAJO PRACTICO PROGRAMACION\CineProg-main\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.pdb
+C:\Users\mateo\Desktop\TRABAJO PRACTICO PROGRAMACION\CineProg-main\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.csproj.AssemblyReference.cache
+C:\Users\mateo\Desktop\TRABAJO PRACTICO PROGRAMACION\CineProg-main\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.Forms.FrmConsultarPelicula.resources
+C:\Users\mateo\Desktop\TRABAJO PRACTICO PROGRAMACION\CineProg-main\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.Forms.FrmInsModPelicula.resources
+C:\Users\mateo\Desktop\TRABAJO PRACTICO PROGRAMACION\CineProg-main\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.FrmIntegrantes.resources
+C:\Users\mateo\Desktop\TRABAJO PRACTICO PROGRAMACION\CineProg-main\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.FrmPrincipal.resources
+C:\Users\mateo\Desktop\TRABAJO PRACTICO PROGRAMACION\CineProg-main\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.Forms.Transaccion.resources
+C:\Users\mateo\Desktop\TRABAJO PRACTICO PROGRAMACION\CineProg-main\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.login.resources
+C:\Users\mateo\Desktop\TRABAJO PRACTICO PROGRAMACION\CineProg-main\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.Properties.Resources.resources
+C:\Users\mateo\Desktop\TRABAJO PRACTICO PROGRAMACION\CineProg-main\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.csproj.GenerateResource.cache
+C:\Users\mateo\Desktop\TRABAJO PRACTICO PROGRAMACION\CineProg-main\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo\Desktop\TRABAJO PRACTICO PROGRAMACION\CineProg-main\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.AssemblyInfoInputs.cache
+C:\Users\mateo\Desktop\TRABAJO PRACTICO PROGRAMACION\CineProg-main\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.AssemblyInfo.cs
+C:\Users\mateo\Desktop\TRABAJO PRACTICO PROGRAMACION\CineProg-main\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.csproj.CoreCompileInputs.cache
+C:\Users\mateo\Desktop\TRABAJO PRACTICO PROGRAMACION\CineProg-main\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\FrontEnd1.exe
+C:\Users\mateo\Desktop\TRABAJO PRACTICO PROGRAMACION\CineProg-main\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\FrontEnd1.deps.json
+C:\Users\mateo\Desktop\TRABAJO PRACTICO PROGRAMACION\CineProg-main\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\FrontEnd1.runtimeconfig.json
+C:\Users\mateo\Desktop\TRABAJO PRACTICO PROGRAMACION\CineProg-main\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\FrontEnd1.dll
+C:\Users\mateo\Desktop\TRABAJO PRACTICO PROGRAMACION\CineProg-main\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\FrontEnd1.pdb
+C:\Users\mateo\Desktop\TRABAJO PRACTICO PROGRAMACION\CineProg-main\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\mateo\Desktop\TRABAJO PRACTICO PROGRAMACION\CineProg-main\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\mateo\Desktop\TRABAJO PRACTICO PROGRAMACION\CineProg-main\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\mateo\Desktop\TRABAJO PRACTICO PROGRAMACION\CineProg-main\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\mateo\Desktop\TRABAJO PRACTICO PROGRAMACION\CineProg-main\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\mateo\Desktop\TRABAJO PRACTICO PROGRAMACION\CineProg-main\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mateo\Desktop\TRABAJO PRACTICO PROGRAMACION\CineProg-main\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mateo\Desktop\TRABAJO PRACTICO PROGRAMACION\CineProg-main\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\BackEnd.dll
+C:\Users\mateo\Desktop\TRABAJO PRACTICO PROGRAMACION\CineProg-main\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\BackEnd.pdb
+C:\Users\mateo\Desktop\TRABAJO PRACTICO PROGRAMACION\CineProg-main\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.csproj.CopyComplete
+C:\Users\mateo\Desktop\TRABAJO PRACTICO PROGRAMACION\CineProg-main\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.genruntimeconfig.cache
+C:\Users\mateo\Desktop\TRABAJO PRACTICO PROGRAMACION\CineProg-main\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\ref\FrontEnd1.dll
+E:\Proyectos GitHub Profecional\CineProgFinal-main\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\FrontEnd1.exe
+E:\Proyectos GitHub Profecional\CineProgFinal-main\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\FrontEnd1.deps.json
+E:\Proyectos GitHub Profecional\CineProgFinal-main\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\FrontEnd1.runtimeconfig.json
+E:\Proyectos GitHub Profecional\CineProgFinal-main\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\FrontEnd1.dll
+E:\Proyectos GitHub Profecional\CineProgFinal-main\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\FrontEnd1.pdb
+E:\Proyectos GitHub Profecional\CineProgFinal-main\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\Proyectos GitHub Profecional\CineProgFinal-main\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\Proyectos GitHub Profecional\CineProgFinal-main\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Proyectos GitHub Profecional\CineProgFinal-main\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\Proyectos GitHub Profecional\CineProgFinal-main\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\Proyectos GitHub Profecional\CineProgFinal-main\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Proyectos GitHub Profecional\CineProgFinal-main\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Proyectos GitHub Profecional\CineProgFinal-main\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\BackEnd.dll
+E:\Proyectos GitHub Profecional\CineProgFinal-main\TP_PROG II\FrontEnd1\bin\Debug\net6.0-windows\BackEnd.pdb
+E:\Proyectos GitHub Profecional\CineProgFinal-main\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.csproj.AssemblyReference.cache
+E:\Proyectos GitHub Profecional\CineProgFinal-main\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.Forms.FrmConsultarPelicula.resources
+E:\Proyectos GitHub Profecional\CineProgFinal-main\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.Forms.FrmInsModPelicula.resources
+E:\Proyectos GitHub Profecional\CineProgFinal-main\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.FrmIntegrantes.resources
+E:\Proyectos GitHub Profecional\CineProgFinal-main\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.FrmPrincipal.resources
+E:\Proyectos GitHub Profecional\CineProgFinal-main\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.Forms.Transaccion.resources
+E:\Proyectos GitHub Profecional\CineProgFinal-main\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.login.resources
+E:\Proyectos GitHub Profecional\CineProgFinal-main\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.Properties.Resources.resources
+E:\Proyectos GitHub Profecional\CineProgFinal-main\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.csproj.GenerateResource.cache
+E:\Proyectos GitHub Profecional\CineProgFinal-main\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos GitHub Profecional\CineProgFinal-main\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.AssemblyInfoInputs.cache
+E:\Proyectos GitHub Profecional\CineProgFinal-main\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.AssemblyInfo.cs
+E:\Proyectos GitHub Profecional\CineProgFinal-main\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.csproj.CoreCompileInputs.cache
+E:\Proyectos GitHub Profecional\CineProgFinal-main\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.csproj.Up2Date
+E:\Proyectos GitHub Profecional\CineProgFinal-main\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.dll
+E:\Proyectos GitHub Profecional\CineProgFinal-main\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\refint\FrontEnd1.dll
+E:\Proyectos GitHub Profecional\CineProgFinal-main\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.pdb
+E:\Proyectos GitHub Profecional\CineProgFinal-main\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\FrontEnd1.genruntimeconfig.cache
+E:\Proyectos GitHub Profecional\CineProgFinal-main\TP_PROG II\FrontEnd1\obj\Debug\net6.0-windows\ref\FrontEnd1.dll
